@@ -21,3 +21,7 @@ VS Code is particularly suitable for beginners and intermediate programmers due 
 In this case, VS Code was used to write the source code, run the program via the terminal, and observe the program’s input and output behavior. It facilitated quick development and testing, making the programming workflow smooth and efficient.This program is especially useful in educational contexts where students are learning about file input/output in C. Understanding how to use different file modes and perform error checking helps build a strong foundation in systems programming. The example covers scenarios commonly encountered in real applications, such as saving user-generated content or processing configuration files.
 Furthermore, the inclusion of file error handling (if (fp == NULL)) demonstrates the importance of validating file operations before proceeding. This not only prevents program crashes but also encourages writing robust and reliable software.
 In conclusion, this program effectively introduces and implements basic file handling operations in C. By using Visual Studio Code, the development experience is enhanced through features such as live error detection, intelligent code suggestions, and an integrated terminal for compilation and execution. The combination of a practical program and a modern development environment offers a solid learning experience for any beginner in C programming.
+
+#OUTPUT:
+
+<img width="1074" height="645" alt="Image" src="https://github.com/user-attachments/assets/f3128797-1142-4a45-8fa9-797b467a6822" />
