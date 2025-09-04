@@ -24,4 +24,4 @@ In conclusion, this program effectively introduces and implements basic file han
 
 #OUTPUT:
 
-<img width="1074" height="645" alt="Image" src="https://github.com/user-attachments/assets/f3128797-1142-4a45-8fa9-797b467a6822" />
+<img width="1418" height="707" alt="Image" src="https://github.com/user-attachments/assets/a25e28a9-a183-4c21-b287-ea8be82c97fe" />
